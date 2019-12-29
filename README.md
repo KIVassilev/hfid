@@ -1,0 +1,2 @@
+# hfid
+Human-friendly IDs
