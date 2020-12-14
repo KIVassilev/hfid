@@ -11,7 +11,15 @@
     "url": "git+https://github.com/KIVassilev/hfid.git"
   },
   "keywords": [
-    "id"
+    "id",
+    "human",
+    "friendly",
+    "print",
+    "verbal",
+    "verbally",
+    "tiny",
+    "error",
+    "error-correct"
   ],
   "author": "KIV",
   "license": "ISC",
