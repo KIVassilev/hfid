@@ -1,0 +1,22 @@
+{
+  "name": "hfid",
+  "version": "1.0.0",
+  "description": "Human-friendly IDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KIVassilev/hfid.git"
+  },
+  "keywords": [
+    "id"
+  ],
+  "author": "KIV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KIVassilev/hfid/issues"
+  },
+  "homepage": "https://github.com/KIVassilev/hfid#readme"
+}
