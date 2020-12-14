@@ -1,6 +1,7 @@
 # Overview
 
 ![Overview](hfid.png)
+
 A library for generating and error-correcting alpha-numerical IDs.
 Common errors when reading IDs off printed documents or sharing them verbally are ambigous character that can be misread or misheard.
 
