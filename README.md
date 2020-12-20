@@ -31,7 +31,7 @@ Q|0
 # Usage
 
 ```javascript
-const hfid = requide('hfid');
+const hfid = require('hfid');
 
 // Generate a random ID
 var id = hfid.random(6);
