@@ -2,10 +2,15 @@
 
 ![Overview](hfid.png)
 
-A library for generating and error-correcting alpha-numerical IDs.
-Common errors when reading IDs off printed documents or sharing them verbally are ambigous character that can be misread or misheard.
+A library for generating IDs that are shared verbally or via printed media.
+# Use cases
+* Order IDs on documents that are prited, e.g. in transportation
+* Onine game IDs that are shared via text or verbally in a group, e.g. Among Us game codes
+* One-time invite codes
 
 # Features
+Does not use ambiguous symbols
+Auto-correct common mistakes (mistype or misheard)
 ## For ID being printed and read
 Does not use characters that can be misread as numbers
 Letter | Number
@@ -39,3 +44,4 @@ var id = hfid.random(6);
 // Fixing user input
 var fixedId = hfid.fix('ARTBI'); // returns 'AR781'
 ```
+
